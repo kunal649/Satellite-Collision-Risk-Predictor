@@ -1,0 +1,32 @@
+[
+  {
+    "event_id": "8776",
+    "probability": 0.9738551378250122,
+    "threshold": 0.15000000000000002,
+    "prediction": "HIGH RISK"
+  },
+  {
+    "event_id": "12992",
+    "probability": 0.11571034789085388,
+    "threshold": 0.15000000000000002,
+    "prediction": "LOW RISK"
+  },
+  {
+    "event_id": "12769",
+    "probability": 0.8613074421882629,
+    "threshold": 0.15000000000000002,
+    "prediction": "HIGH RISK"
+  },
+  {
+    "event_id": "4727",
+    "probability": 0.0006906306953169405,
+    "threshold": 0.15000000000000002,
+    "prediction": "LOW RISK"
+  },
+  {
+    "event_id": "1109",
+    "probability": 0.0031495585571974516,
+    "threshold": 0.15000000000000002,
+    "prediction": "LOW RISK"
+  }
+]
